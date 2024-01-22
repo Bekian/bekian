@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi! I'm Bekian
+##### Here's some stuff about me!
 
 <!--
 **Bekian/bekian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![wakatime](https://wakatime.com/badge/user/018c1cb9-cd28-4fee-931a-b3425773f96d.svg)](https://wakatime.com/@018c1cb9-cd28-4fee-931a-b3425773f96d)
